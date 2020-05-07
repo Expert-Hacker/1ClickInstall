@@ -33,7 +33,7 @@ $ git clone https://github.com/KaravaliStudio/1ClickInstall.git
 $ ls
 ```
 ```
-$ cd KaravaliStudio
+$ cd 1ClickInstall
 ```
 ```
 $ ls
