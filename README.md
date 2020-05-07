@@ -7,7 +7,7 @@
 ## 🔍 ***About 1ClickInstall***:
 1ClickInstall is a bash based script which is officially termux from this tool in just one click you can install basic packages for termux. This tool works on both rooted Android device and Non-rooted Android device.
 
-### 📌 ***Hacklock is available for***:
+### 📌 ***1ClickInstall is available for***:
 
 * Termux
 
