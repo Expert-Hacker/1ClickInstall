@@ -12,6 +12,8 @@
 * Termux
 
 ## 📌 ***Screenshot*** :
+![Screenshot](https://user-images.githubusercontent.com/63892972/81304737-12ebdf00-909b-11ea-9a62-0e26175f4ea4.jpg)
+
 
 
 ### 📌 ***Installation and usage guide***:
